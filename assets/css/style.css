@@ -5,6 +5,7 @@
     margin: -2px;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
+    overflow: hidden;
 }
 
 body{
